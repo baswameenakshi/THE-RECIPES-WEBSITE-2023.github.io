@@ -1,0 +1,28 @@
+body {
+    background-image: url('https://t4.ftcdn.net/jpg/01/80/26/03/360_F_180260315_gREfK8CvdnJN7mrUcopHsYvOdJs5qh0N.jpg'); /* Replace 'your-image.jpg' with the path to your image file */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* This keeps the background image fixed while scrolling */
+    color: #ffffff; /* Text color for better visibility on the background */
+}
+
+.container {
+    padding: 20px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+p {
+    font-size: 16px;
+}
+body {
+    color: black;
+}
+body{
+    
+    font-style: italic; /* Change the font style as needed */
+}
+
+
